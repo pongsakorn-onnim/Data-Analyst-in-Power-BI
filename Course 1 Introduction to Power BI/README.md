@@ -11,4 +11,4 @@ Gain a 360° overview of exploring and using Power BI to build impactful reports
 - More columns
 - Table
 
-[Chapter 1](https://github.com/pongsakorn-onnim/Data-Analyst-in-Power-BI/blob/main/Course%201%20Introduction%20to%20Power%20BI/course1_chapter1_result.png)
+![Chapter 1](https://github.com/pongsakorn-onnim/Data-Analyst-in-Power-BI/blob/main/Course%201%20Introduction%20to%20Power%20BI/course1_chapter1_result.png)
