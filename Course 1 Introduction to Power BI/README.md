@@ -14,4 +14,4 @@ Gain a 360° overview of exploring and using Power BI to build impactful reports
 ### My Chapter 1 Exercise Result
 ![Chapter 1 Result](https://github.com/pongsakorn-onnim/Data-Analyst-in-Power-BI/blob/main/Course%201%20Introduction%20to%20Power%20BI/course1_chapter1_result.png)
 
-Description: The sales data contains the total amount of profit and the bar chart showing the number of items sold separated by years. It also includes slicers for selecting specific employees and a table showing sales information.
+**Description:** The sales data contains the total amount of profit and the bar chart showing the number of items sold separated by years. It also includes slicers for selecting specific employees and a table showing sales information.
